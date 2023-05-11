@@ -27,6 +27,10 @@ a:hover, a:focus {
   outline: none;
 }
 
+.d-none{
+	display: none;
+}
+
 ul, ol {
   margin: 0;
   padding: 0;
@@ -353,13 +357,6 @@ textarea.input {
   color: var(--main);
 }
 
-/*=========================================================
-	02 -> HEADER
-===========================================================*/
-
-/*----------------------------*\
-	Top header
-\*----------------------------*/
 
 #top-header {
   padding-top: 10px;
